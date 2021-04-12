@@ -6,5 +6,5 @@ To run the project:
 2. Run `npm install`
 3. Run `npm start`
 
-## Deply to Github pages
+## Deploy React App to Github Pages
 * [Deploy to Github pages](https://create-react-app.dev/docs/deployment/#github-pages)
